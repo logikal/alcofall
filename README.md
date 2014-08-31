@@ -1,6 +1,6 @@
-# The Towerfall Drinking Game
+# The TowerFall Drinking Game
 
-Every game is better with a drinking game. Here are the rules my group of friends uses for Towerfall.
+Every game is better with a drinking game. Here are the rules my group of friends uses for [TowerFall Ascension](http://www.towerfall-game.com/).
 
 ## The setup 
 Headhunters, first to ten
@@ -11,7 +11,7 @@ Headhunters, first to ten
 The King(s) must drink, and is responsible for advancing to the next round
 
 ### We Three Kings
-If there are 3 kings, they all must drink 3 times.
+If there are 3 kings, they all must drink 3 times
 
 ### The Asshole
 If anyone advances to the next round that isn't the King, they must drink
@@ -32,7 +32,10 @@ If you are killed by a player who has no arrows, you must drink
 If you're the last person alive and didn't kill anyone, you must drink
 
 ### The Ace
-If you kill all other players, everyone else must drink.
+If you kill all other players, everyone else must drink
+
+### The Suicide
+If you kill yourself, you must drink
 
 ### Everything Else
 Evaluate any Match Winner rules (see below)
@@ -54,3 +57,4 @@ The Match winner is allowed to create a rule that only applies to the next Match
 
 ### Authors and Contributors
 Many thanks to @siyegen, @partkyle, @eddiezane, and @yrck for help tuning this drinking game.
+@MattThorson for making TowerFall.
