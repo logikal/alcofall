@@ -18,15 +18,15 @@ If anyone advances to the next round that isn't the King, they must drink
 
 ### The Slowpoke
 Anyone 3 kills or more behind the king must drink
- > just one drink no matter how many behind
+* just one drink no matter how many behind
 
 ### Cheers
 Any two players who clink arrows during the match must clink glasses and drink 
- > one drink per clink 
+* one drink per clink 
 
 ### The Mushroom Kingdom
 If you are killed by a player who has no arrows, you must drink
- > This doesn't include if someone shot you with their last arrow.
+ * This doesn't include if someone shot you with their last arrow.
 
 ### The Sole Survivor
 If you're the last person alive and didn't kill anyone, you must drink
