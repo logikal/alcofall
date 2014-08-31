@@ -8,7 +8,7 @@ Headhunters, first to ten
 ## Each Round
 
 ### It's good to be the king
-The King must drink, and is responsible for advancing to the next round
+The King(s) must drink, and is responsible for advancing to the next round
 
 ### The asshole
 If anyone advances to the next round that isn't the King, they must drink
