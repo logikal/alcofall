@@ -13,7 +13,7 @@ The King(s) must drink, and is responsible for advancing to the next round
 ### We Three Kings
 If there are 3 kings, they all must drink 3 times.
 
-### The asshole
+### The Asshole
 If anyone advances to the next round that isn't the King, they must drink
 
 ### The Slowpoke
