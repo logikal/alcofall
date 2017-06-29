@@ -1,0 +1,8 @@
+title: Alcofall
+description: The Towerfall Drinking Game
+google_analytics: UA-54336484-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
